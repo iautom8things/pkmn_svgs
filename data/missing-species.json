@@ -1,0 +1,666 @@
+[
+  {
+    "dex": 660,
+    "name": "diggersby",
+    "displayName": "Diggersby",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 676,
+    "name": "furfrou",
+    "displayName": "Furfrou",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 678,
+    "name": "meowstic",
+    "displayName": "Meowstic",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 682,
+    "name": "spritzee",
+    "displayName": "Spritzee",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 683,
+    "name": "aromatisse",
+    "displayName": "Aromatisse",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 685,
+    "name": "slurpuff",
+    "displayName": "Slurpuff",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 687,
+    "name": "malamar",
+    "displayName": "Malamar",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 688,
+    "name": "binacle",
+    "displayName": "Binacle",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 694,
+    "name": "helioptile",
+    "displayName": "Helioptile",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 695,
+    "name": "heliolisk",
+    "displayName": "Heliolisk",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 703,
+    "name": "carbink",
+    "displayName": "Carbink",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 709,
+    "name": "trevenant",
+    "displayName": "Trevenant",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 721,
+    "name": "volcanion",
+    "displayName": "Volcanion",
+    "generation": 6,
+    "region": "Kalos",
+    "labels": []
+  },
+  {
+    "dex": 732,
+    "name": "trumbeak",
+    "displayName": "Trumbeak",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 733,
+    "name": "toucannon",
+    "displayName": "Toucannon",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 736,
+    "name": "grubbin",
+    "displayName": "Grubbin",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 738,
+    "name": "vikavolt",
+    "displayName": "Vikavolt",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 751,
+    "name": "dewpider",
+    "displayName": "Dewpider",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 752,
+    "name": "araquanid",
+    "displayName": "Araquanid",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 755,
+    "name": "morelull",
+    "displayName": "Morelull",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 767,
+    "name": "wimpod",
+    "displayName": "Wimpod",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 768,
+    "name": "golisopod",
+    "displayName": "Golisopod",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 772,
+    "name": "type-null",
+    "displayName": "Type: Null",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 773,
+    "name": "silvally",
+    "displayName": "Silvally",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 774,
+    "name": "minior",
+    "displayName": "Minior",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 776,
+    "name": "turtonator",
+    "displayName": "Turtonator",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 781,
+    "name": "dhelmise",
+    "displayName": "Dhelmise",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 782,
+    "name": "jangmo-o",
+    "displayName": "Jangmo-o",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 784,
+    "name": "kommo-o",
+    "displayName": "Kommo-o",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 785,
+    "name": "tapu-koko",
+    "displayName": "Tapu Koko",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 786,
+    "name": "tapu-lele",
+    "displayName": "Tapu Lele",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 789,
+    "name": "cosmog",
+    "displayName": "Cosmog",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 790,
+    "name": "cosmoem",
+    "displayName": "Cosmoem",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 793,
+    "name": "nihilego",
+    "displayName": "Nihilego",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 794,
+    "name": "buzzwole",
+    "displayName": "Buzzwole",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 795,
+    "name": "pheromosa",
+    "displayName": "Pheromosa",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 796,
+    "name": "xurkitree",
+    "displayName": "Xurkitree",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 797,
+    "name": "celesteela",
+    "displayName": "Celesteela",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 798,
+    "name": "kartana",
+    "displayName": "Kartana",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 799,
+    "name": "guzzlord",
+    "displayName": "Guzzlord",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 801,
+    "name": "magearna",
+    "displayName": "Magearna",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 802,
+    "name": "marshadow",
+    "displayName": "Marshadow",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 803,
+    "name": "poipole",
+    "displayName": "Poipole",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 804,
+    "name": "naganadel",
+    "displayName": "Naganadel",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 805,
+    "name": "stakataka",
+    "displayName": "Stakataka",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 806,
+    "name": "blacephalon",
+    "displayName": "Blacephalon",
+    "generation": 7,
+    "region": "Alola",
+    "labels": []
+  },
+  {
+    "dex": 824,
+    "name": "blipbug",
+    "displayName": "Blipbug",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 825,
+    "name": "dottler",
+    "displayName": "Dottler",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 826,
+    "name": "orbeetle",
+    "displayName": "Orbeetle",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 827,
+    "name": "nickit",
+    "displayName": "Nickit",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 829,
+    "name": "gossifleur",
+    "displayName": "Gossifleur",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 830,
+    "name": "eldegoss",
+    "displayName": "Eldegoss",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 832,
+    "name": "dubwool",
+    "displayName": "Dubwool",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 836,
+    "name": "boltund",
+    "displayName": "Boltund",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 845,
+    "name": "cramorant",
+    "displayName": "Cramorant",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 850,
+    "name": "sizzlipede",
+    "displayName": "Sizzlipede",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 851,
+    "name": "centiskorch",
+    "displayName": "Centiskorch",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 852,
+    "name": "clobbopus",
+    "displayName": "Clobbopus",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 853,
+    "name": "grapploct",
+    "displayName": "Grapploct",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 862,
+    "name": "obstagoon",
+    "displayName": "Obstagoon",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 863,
+    "name": "perrserker",
+    "displayName": "Perrserker",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 864,
+    "name": "cursola",
+    "displayName": "Cursola",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 866,
+    "name": "mr-rime",
+    "displayName": "Mr. Rime",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 867,
+    "name": "runerigus",
+    "displayName": "Runerigus",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 868,
+    "name": "milcery",
+    "displayName": "Milcery",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 869,
+    "name": "alcremie",
+    "displayName": "Alcremie",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 880,
+    "name": "dracozolt",
+    "displayName": "Dracozolt",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 881,
+    "name": "arctozolt",
+    "displayName": "Arctozolt",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 882,
+    "name": "dracovish",
+    "displayName": "Dracovish",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 883,
+    "name": "arctovish",
+    "displayName": "Arctovish",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 884,
+    "name": "duraludon",
+    "displayName": "Duraludon",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 890,
+    "name": "eternatus",
+    "displayName": "Eternatus",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 891,
+    "name": "kubfu",
+    "displayName": "Kubfu",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 892,
+    "name": "urshifu",
+    "displayName": "Urshifu",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 893,
+    "name": "zarude",
+    "displayName": "Zarude",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 894,
+    "name": "regieleki",
+    "displayName": "Regieleki",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 895,
+    "name": "regidrago",
+    "displayName": "Regidrago",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 899,
+    "name": "wyrdeer",
+    "displayName": "Wyrdeer",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 900,
+    "name": "kleavor",
+    "displayName": "Kleavor",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 902,
+    "name": "basculegion",
+    "displayName": "Basculegion",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 903,
+    "name": "sneasler",
+    "displayName": "Sneasler",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 904,
+    "name": "overqwil",
+    "displayName": "Overqwil",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  },
+  {
+    "dex": 905,
+    "name": "enamorus",
+    "displayName": "Enamorus",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "labels": []
+  }
+]

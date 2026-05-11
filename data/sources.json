@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-05-11T19:28:23.085Z",
+  "count": 1146,
+  "uniqueSpecies": 942,
+  "totalSpecies": 1025,
+  "missingSpecies": 83,
+  "sources": [
+    "https://github.com/PokeAPI/sprites",
+    "https://pokeapi.co/"
+  ]
+}

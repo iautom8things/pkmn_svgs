@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pokemon SVG Picker</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <h1>Pokemon SVG Picker</h1>
+          <p id="count">Loading catalog...</p>
+        </div>
+        <a class="source-link" href="https://github.com/PokeAPI/sprites" target="_blank" rel="noreferrer">
+          Source
+        </a>
+      </header>
+
+      <section class="toolbar" aria-label="Filters">
+        <label class="search">
+          <span>Name or number</span>
+          <input id="search" type="search" autocomplete="off" placeholder="Pikachu, 25, Char..." />
+        </label>
+
+        <label>
+          <span>Generation</span>
+          <select id="generation"></select>
+        </label>
+
+        <label>
+          <span>Region</span>
+          <select id="region"></select>
+        </label>
+
+        <label>
+          <span>Type</span>
+          <select id="type"></select>
+        </label>
+
+        <label>
+          <span>Label</span>
+          <select id="label"></select>
+        </label>
+      </section>
+
+      <section class="results" id="results" aria-live="polite"></section>
+    </main>
+
+    <template id="card-template">
+      <article class="pokemon-card">
+        <a class="art-link" target="_blank" rel="noreferrer">
+          <img alt="" loading="lazy" />
+        </a>
+        <div class="meta">
+          <div>
+            <p class="dex"></p>
+            <h2></h2>
+          </div>
+          <p class="details"></p>
+          <div class="types"></div>
+          <div class="actions">
+            <a class="download" download>Download SVG</a>
+            <a class="raw" target="_blank" rel="noreferrer">Raw</a>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
