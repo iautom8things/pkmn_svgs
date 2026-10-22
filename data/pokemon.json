@@ -13620,6 +13620,24 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/680.svg"
   },
   {
+    "id": "681",
+    "dex": 681,
+    "name": "aegislash-shield",
+    "displayName": "Aegislash",
+    "species": "aegislash",
+    "speciesDisplayName": "Aegislash",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "labels": [],
+    "svg": "assets/svg/681.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/5b/681Aegislash_Shield_Forme_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "682",
     "dex": 682,
     "name": "spritzee",
@@ -14274,6 +14292,26 @@
     ],
     "svg": "assets/svg/719.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/719.svg"
+  },
+  {
+    "id": "720",
+    "dex": 720,
+    "name": "hoopa",
+    "displayName": "Hoopa",
+    "species": "hoopa",
+    "speciesDisplayName": "Hoopa",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "psychic",
+      "ghost"
+    ],
+    "labels": [
+      "mythical"
+    ],
+    "svg": "assets/svg/720.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/c/ca/720Hoopa-Confined_Dream_3.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "721",
@@ -17142,6 +17180,44 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/887.svg"
   },
   {
+    "id": "888",
+    "dex": 888,
+    "name": "zacian",
+    "displayName": "Zacian",
+    "species": "zacian",
+    "speciesDisplayName": "Zacian",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fairy"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/888.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/c/c2/888Zacian_-_Hero_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "889",
+    "dex": 889,
+    "name": "zamazenta",
+    "displayName": "Zamazenta",
+    "species": "zamazenta",
+    "speciesDisplayName": "Zamazenta",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fighting"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/889.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/f/fb/889Zamazenta_-_Hero_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "890",
     "dex": 890,
     "name": "eternatus",
@@ -17295,6 +17371,26 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/897.svg"
   },
   {
+    "id": "898",
+    "dex": 898,
+    "name": "calyrex",
+    "displayName": "Calyrex",
+    "species": "calyrex",
+    "speciesDisplayName": "Calyrex",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/898.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/2/27/898Calyrex_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "899",
     "dex": 899,
     "name": "wyrdeer",
@@ -17328,6 +17424,24 @@
     "labels": [],
     "svg": "assets/svg/900.svg",
     "sourceUrl": "https://drive.usercontent.google.com/download?id=1Ms9_NiLE22U4RSs0k74fSWO3JpwZztjl&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "901",
+    "dex": 901,
+    "name": "ursaluna",
+    "displayName": "Ursaluna",
+    "species": "ursaluna",
+    "speciesDisplayName": "Ursaluna",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "ground",
+      "normal"
+    ],
+    "labels": [],
+    "svg": "assets/svg/901.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/a/a0/901Ursaluna_Dream.png",
     "artSource": "traced-dream-world-artwork"
   },
   {

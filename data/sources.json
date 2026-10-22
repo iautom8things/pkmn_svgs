@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T02:53:58.974Z",
-  "count": 1229,
+  "generatedAt": "2026-10-22T04:02:47.489Z",
+  "count": 1235,
   "uniqueSpecies": 1025,
   "totalSpecies": 1025,
   "missingSpecies": 0,
-  "tracedSvgs": 83,
+  "tracedSvgs": 89,
   "sources": [
     "https://github.com/PokeAPI/sprites",
     "https://pokeapi.co/",

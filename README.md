@@ -6,7 +6,7 @@ Most SVG assets in this repository come from the PokeAPI sprite repository:
 
 - https://github.com/PokeAPI/sprites
 
-PokeAPI has no Dream World SVG for 83 Gen 6 to 8 species. Those 83 are traced here from Dream World artwork PNGs, so every species from 1 to 1025 has an SVG. See "Sources and rights" below.
+PokeAPI has no Dream World SVG for 83 Gen 6 to 8 species. For 6 more it only has alternate forms: Aegislash Blade Forme, Hoopa Unbound, Crowned Zacian, Crowned Zamazenta, Ice and Shadow Rider Calyrex, and Bloodmoon Ursaluna. Those 89 are traced here from Dream World artwork PNGs, so every species from 1 to 1025 has an SVG of its default form. See "Sources and rights" below.
 
 This project is just a lightweight dashboard around those sourced assets. Metadata is enriched with PokeAPI data so the dashboard can search and filter by name, generation, region, type, and labels such as legendary, mythical, and pseudo-legendary.
 
@@ -77,13 +77,13 @@ The dashboard metadata is sourced from:
 
 - https://pokeapi.co/
 
-PokeAPI's sprite repo documents `sprites/pokemon/other/dream-world` as SVGs. This set includes alternate forms. Its Gen 6 to 9 SVGs came from a Google Drive archive in September 2025 ([PokeAPI/sprites#178](https://github.com/PokeAPI/sprites/pull/178)), and that archive has no SVG for 83 species.
+PokeAPI's sprite repo documents `sprites/pokemon/other/dream-world` as SVGs. This set includes alternate forms. Its Gen 6 to 9 SVGs came from a Google Drive archive in September 2025 ([PokeAPI/sprites#178](https://github.com/PokeAPI/sprites/pull/178)), and that archive has no SVG for 83 species. For 6 more species PokeAPI has SVGs of alternate forms only (`10026` Aegislash Blade, `10086` Hoopa Unbound, `10188` and `10189` Crowned Zacian and Zamazenta, `10193` and `10194` Ice and Shadow Rider Calyrex, `10272` Bloodmoon Ursaluna).
 
-Those 83 species are traced, not original vector files. Each one starts from the official Dream World style artwork as a PNG:
+Those 89 species are traced, not original vector files. Each one starts from the official Dream World style artwork as a PNG of the default form:
 
-- 69 come from the Bulbagarden Archives category of Dream World artwork: https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Dream_World_artwork
+- 75 come from the Bulbagarden Archives category of Dream World artwork: https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Dream_World_artwork. For Hoopa Confined the traced file is a 910 px copy of the 298 px main file, and `sameArtAs` links the main file.
 - 14 come from the "Non-SVG" folder of the same Google Drive archive that PokeAPI's SVGs came from: https://drive.google.com/drive/folders/121i6SuB-peAm57GKh6moQ_tQSw7orjys. For these species, Bulbagarden's main Dream World file is only 150 to 380 px wide, and the Drive folder has a larger copy of the same artwork. `sameArtAs` in `data/traced-art.json` links the Bulbagarden file each one matches.
 
-`scripts/trace-art.mjs` turns each PNG into a flat color SVG with potrace. The outline shape follows the PNG's alpha channel exactly, so silhouettes match the artwork. Fine detail and gradients are simplified to a few dozen flat colors, and close up the curves are less clean than hand-made vectors. Their catalog rows carry `artSource: "traced-dream-world-artwork"`, and `sourceUrl` points at the PNG that was traced. `data/traced-art.json` lists the source file and page for every traced species.
+`scripts/trace-art.mjs` turns each PNG into a flat color SVG with potrace. The outline shape follows the PNG's alpha channel exactly, so silhouettes match the artwork. Fine detail and gradients are simplified to a few dozen flat colors, and close up the curves are less clean than hand-made vectors. Their catalog rows carry `artSource: "traced-dream-world-artwork"`, and `sourceUrl` points at the PNG that was traced. `data/traced-art.json` lists the source file and page for every traced species. Each traced row has the bare dex as its `id` (`681`), so it sits next to any upstream form rows (`10026`) as the species' default form.
 
 The repo license file also states that image contents are copyright The Pokemon Company and that trademark rights are not waived. The Dream World artwork behind the traced SVGs is also The Pokemon Company's, and Bulbagarden hosts it as fair use. Treat all of these as personal-use party assets unless you separately clear rights for broader use.

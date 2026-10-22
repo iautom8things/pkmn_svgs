@@ -27,6 +27,15 @@
     "sourcePage": "https://archives.bulbagarden.net/wiki/File:678Meowstic_Male_Dream.png"
   },
   {
+    "dex": 681,
+    "name": "aegislash",
+    "artSource": "traced-dream-world-artwork",
+    "archive": "Bulbagarden Archives, Pokémon Dream World artwork category",
+    "archiveUrl": "https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Dream_World_artwork",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/5b/681Aegislash_Shield_Forme_Dream.png",
+    "sourcePage": "https://archives.bulbagarden.net/wiki/File:681Aegislash_Shield_Forme_Dream.png"
+  },
+  {
     "dex": 682,
     "name": "spritzee",
     "artSource": "traced-dream-world-artwork",
@@ -106,6 +115,16 @@
     "archiveUrl": "https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Dream_World_artwork",
     "sourceUrl": "https://archives.bulbagarden.net/media/upload/d/d8/709Trevenant_Dream.png",
     "sourcePage": "https://archives.bulbagarden.net/wiki/File:709Trevenant_Dream.png"
+  },
+  {
+    "dex": 720,
+    "name": "hoopa",
+    "artSource": "traced-dream-world-artwork",
+    "archive": "Bulbagarden Archives, Pokémon Dream World artwork category",
+    "archiveUrl": "https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Dream_World_artwork",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/c/ca/720Hoopa-Confined_Dream_3.png",
+    "sourcePage": "https://archives.bulbagarden.net/wiki/File:720Hoopa-Confined_Dream_3.png",
+    "sameArtAs": "https://archives.bulbagarden.net/wiki/File:720Hoopa-Confined_Dream.png"
   },
   {
     "dex": 721,
@@ -648,6 +667,24 @@
     "sourcePage": "https://archives.bulbagarden.net/wiki/File:884Duraludon_Dream.png"
   },
   {
+    "dex": 888,
+    "name": "zacian",
+    "artSource": "traced-dream-world-artwork",
+    "archive": "Bulbagarden Archives, Pokémon Dream World artwork category",
+    "archiveUrl": "https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Dream_World_artwork",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/c/c2/888Zacian_-_Hero_Dream.png",
+    "sourcePage": "https://archives.bulbagarden.net/wiki/File:888Zacian_-_Hero_Dream.png"
+  },
+  {
+    "dex": 889,
+    "name": "zamazenta",
+    "artSource": "traced-dream-world-artwork",
+    "archive": "Bulbagarden Archives, Pokémon Dream World artwork category",
+    "archiveUrl": "https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Dream_World_artwork",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/f/fb/889Zamazenta_-_Hero_Dream.png",
+    "sourcePage": "https://archives.bulbagarden.net/wiki/File:889Zamazenta_-_Hero_Dream.png"
+  },
+  {
     "dex": 890,
     "name": "eternatus",
     "artSource": "traced-dream-world-artwork",
@@ -703,6 +740,15 @@
     "sourcePage": "https://archives.bulbagarden.net/wiki/File:895Regidrago_Dream.png"
   },
   {
+    "dex": 898,
+    "name": "calyrex",
+    "artSource": "traced-dream-world-artwork",
+    "archive": "Bulbagarden Archives, Pokémon Dream World artwork category",
+    "archiveUrl": "https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Dream_World_artwork",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/2/27/898Calyrex_Dream.png",
+    "sourcePage": "https://archives.bulbagarden.net/wiki/File:898Calyrex_Dream.png"
+  },
+  {
     "dex": 899,
     "name": "wyrdeer",
     "artSource": "traced-dream-world-artwork",
@@ -721,6 +767,15 @@
     "sourceUrl": "https://drive.usercontent.google.com/download?id=1Ms9_NiLE22U4RSs0k74fSWO3JpwZztjl&export=download",
     "sourcePage": "https://drive.google.com/file/d/1Ms9_NiLE22U4RSs0k74fSWO3JpwZztjl/view",
     "sameArtAs": "https://archives.bulbagarden.net/wiki/File:900Kleavor_Dream.png"
+  },
+  {
+    "dex": 901,
+    "name": "ursaluna",
+    "artSource": "traced-dream-world-artwork",
+    "archive": "Bulbagarden Archives, Pokémon Dream World artwork category",
+    "archiveUrl": "https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Dream_World_artwork",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/a/a0/901Ursaluna_Dream.png",
+    "sourcePage": "https://archives.bulbagarden.net/wiki/File:901Ursaluna_Dream.png"
   },
   {
     "dex": 902,
