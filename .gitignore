@@ -1,3 +1,4 @@
 .playwright-cli/
 erl_crash.dump
 .DS_Store
+node_modules/

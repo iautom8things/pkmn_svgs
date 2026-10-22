@@ -1,5 +1,5 @@
-import { mkdir, writeFile } from "node:fs/promises";
-import { createWriteStream } from "node:fs";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { createWriteStream, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { pipeline } from "node:stream/promises";
 
@@ -7,8 +7,7 @@ const root = new URL("..", import.meta.url);
 const dataDir = new URL("../data/", import.meta.url);
 const svgDir = new URL("../assets/svg/", import.meta.url);
 
-const treeUrl =
-  "https://api.github.com/repos/PokeAPI/sprites/git/trees/master?recursive=1";
+const treeBase = "https://api.github.com/repos/PokeAPI/sprites/git/trees/";
 const rawBase =
   "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/";
 const dreamWorldPrefix = "sprites/pokemon/other/dream-world/";
@@ -156,23 +155,50 @@ const main = async () => {
   await mkdir(svgDir, { recursive: true });
 
   console.log("Reading PokeAPI sprite tree...");
-  const tree = await getJson(treeUrl);
+  // The whole repo is too big for one recursive tree call, so walk down to the dream-world folder.
+  let treeSha = "master";
+  for (const segment of dreamWorldPrefix.split("/").filter(Boolean)) {
+    const level = await getJson(`${treeBase}${treeSha}`);
+    const next = level.tree.find((entry) => entry.type === "tree" && entry.path === segment);
+    if (!next) throw new Error(`Missing ${segment} in the PokeAPI sprite tree.`);
+    treeSha = next.sha;
+  }
+  const tree = await getJson(`${treeBase}${treeSha}?recursive=1`);
   if (tree.truncated) {
     throw new Error("GitHub returned a truncated tree; cannot safely build a full catalog.");
   }
 
-  const files = tree.tree
-    .filter(
-      (entry) =>
-        entry.type === "blob" &&
-        entry.path.startsWith(dreamWorldPrefix) &&
-        entry.path.endsWith(".svg"),
-    )
-    .map((entry) => parseSvgPath(entry.path))
-    .filter(Boolean)
-    .sort((a, b) => a.lookupId - b.lookupId || String(a.id).localeCompare(String(b.id)));
+  const upstreamFiles = tree.tree
+    .filter((entry) => entry.type === "blob" && entry.path.endsWith(".svg"))
+    .map((entry) => parseSvgPath(`${dreamWorldPrefix}${entry.path}`))
+    .filter(Boolean);
 
-  console.log(`Found ${files.length} SVGs.`);
+  // Traced art fills species that upstream has no SVG for. Upstream wins once it adds one.
+  const upstreamIds = new Set(upstreamFiles.map((file) => file.lookupId));
+  const tracedPath = new URL("traced-art.json", dataDir);
+  const tracedArt = existsSync(tracedPath) ? JSON.parse(await readFile(tracedPath, "utf8")) : [];
+  const tracedFiles = tracedArt
+    .filter((entry) => !upstreamIds.has(entry.dex))
+    .filter((entry) => {
+      const present = existsSync(join(svgDir.pathname, `${entry.dex}.svg`));
+      if (!present) console.warn(`Skipping traced ${entry.dex}: assets/svg/${entry.dex}.svg is missing.`);
+      return present;
+    })
+    .map((entry) => ({
+      id: String(entry.dex),
+      lookupId: entry.dex,
+      variant: null,
+      file: `${entry.dex}.svg`,
+      url: entry.sourceUrl,
+      artSource: entry.artSource,
+      archiveUrl: entry.archiveUrl,
+    }));
+
+  const files = [...upstreamFiles, ...tracedFiles].sort(
+    (a, b) => a.lookupId - b.lookupId || String(a.id).localeCompare(String(b.id)),
+  );
+
+  console.log(`Found ${upstreamFiles.length} SVGs upstream and ${tracedFiles.length} traced.`);
   console.log("Reading Pokemon metadata...");
 
   const pokemonByLookupId = new Map();
@@ -221,6 +247,7 @@ const main = async () => {
       labels,
       svg: `assets/svg/${file.file}`,
       sourceUrl: file.url,
+      ...(file.artSource ? { artSource: file.artSource } : {}),
     };
   });
 
@@ -245,7 +272,7 @@ const main = async () => {
     .sort((a, b) => a.dex - b.dex);
 
   console.log("Downloading SVGs...");
-  await runPool(files, 16, async (file) => {
+  await runPool(upstreamFiles, 16, async (file) => {
     await download(file.url, join(svgDir.pathname, file.file));
   });
 
@@ -270,9 +297,11 @@ const main = async () => {
         uniqueSpecies: speciesWithSvg.size,
         totalSpecies: allSpecies.count,
         missingSpecies: missingSpecies.length,
+        tracedSvgs: tracedFiles.length,
         sources: [
           "https://github.com/PokeAPI/sprites",
           "https://pokeapi.co/",
+          ...new Set(tracedFiles.map((file) => file.archiveUrl)),
         ],
       },
       null,

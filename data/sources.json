@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-05-11T19:28:23.085Z",
-  "count": 1146,
-  "uniqueSpecies": 942,
+  "generatedAt": "2026-10-22T02:53:58.974Z",
+  "count": 1229,
+  "uniqueSpecies": 1025,
   "totalSpecies": 1025,
-  "missingSpecies": 83,
+  "missingSpecies": 0,
+  "tracedSvgs": 83,
   "sources": [
     "https://github.com/PokeAPI/sprites",
-    "https://pokeapi.co/"
+    "https://pokeapi.co/",
+    "https://archives.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Dream_World_artwork",
+    "https://drive.google.com/drive/folders/121i6SuB-peAm57GKh6moQ_tQSw7orjys"
   ]
 }

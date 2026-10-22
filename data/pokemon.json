@@ -12756,6 +12756,24 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/659.svg"
   },
   {
+    "id": "660",
+    "dex": 660,
+    "name": "diggersby",
+    "displayName": "Diggersby",
+    "species": "diggersby",
+    "speciesDisplayName": "Diggersby",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "normal",
+      "ground"
+    ],
+    "labels": [],
+    "svg": "assets/svg/660.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/d/d9/660Diggersby_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "661",
     "dex": 661,
     "name": "fletchling",
@@ -13518,6 +13536,23 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/675.svg"
   },
   {
+    "id": "676",
+    "dex": 676,
+    "name": "furfrou",
+    "displayName": "Furfrou",
+    "species": "furfrou",
+    "speciesDisplayName": "Furfrou",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "normal"
+    ],
+    "labels": [],
+    "svg": "assets/svg/676.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/1/1b/676Furfrou_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "677",
     "dex": 677,
     "name": "espurr",
@@ -13532,6 +13567,23 @@
     "labels": [],
     "svg": "assets/svg/677.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/677.svg"
+  },
+  {
+    "id": "678",
+    "dex": 678,
+    "name": "meowstic-male",
+    "displayName": "Meowstic",
+    "species": "meowstic",
+    "speciesDisplayName": "Meowstic",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "psychic"
+    ],
+    "labels": [],
+    "svg": "assets/svg/678.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/6/69/678Meowstic_Male_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "679",
@@ -13568,6 +13620,40 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/680.svg"
   },
   {
+    "id": "682",
+    "dex": 682,
+    "name": "spritzee",
+    "displayName": "Spritzee",
+    "species": "spritzee",
+    "speciesDisplayName": "Spritzee",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "fairy"
+    ],
+    "labels": [],
+    "svg": "assets/svg/682.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/5c/682Spritzee_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "683",
+    "dex": 683,
+    "name": "aromatisse",
+    "displayName": "Aromatisse",
+    "species": "aromatisse",
+    "speciesDisplayName": "Aromatisse",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "fairy"
+    ],
+    "labels": [],
+    "svg": "assets/svg/683.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/8/81/683Aromatisse_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "684",
     "dex": 684,
     "name": "swirlix",
@@ -13582,6 +13668,23 @@
     "labels": [],
     "svg": "assets/svg/684.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/684.svg"
+  },
+  {
+    "id": "685",
+    "dex": 685,
+    "name": "slurpuff",
+    "displayName": "Slurpuff",
+    "species": "slurpuff",
+    "speciesDisplayName": "Slurpuff",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "fairy"
+    ],
+    "labels": [],
+    "svg": "assets/svg/685.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/a/a1/685Slurpuff_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "686",
@@ -13599,6 +13702,42 @@
     "labels": [],
     "svg": "assets/svg/686.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/686.svg"
+  },
+  {
+    "id": "687",
+    "dex": 687,
+    "name": "malamar",
+    "displayName": "Malamar",
+    "species": "malamar",
+    "speciesDisplayName": "Malamar",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "labels": [],
+    "svg": "assets/svg/687.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/2/2b/687Malamar_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "688",
+    "dex": 688,
+    "name": "binacle",
+    "displayName": "Binacle",
+    "species": "binacle",
+    "speciesDisplayName": "Binacle",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "labels": [],
+    "svg": "assets/svg/688.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/51/688Binacle_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "689",
@@ -13682,6 +13821,42 @@
     "labels": [],
     "svg": "assets/svg/693.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/693.svg"
+  },
+  {
+    "id": "694",
+    "dex": 694,
+    "name": "helioptile",
+    "displayName": "Helioptile",
+    "species": "helioptile",
+    "speciesDisplayName": "Helioptile",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "labels": [],
+    "svg": "assets/svg/694.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/2/20/694Helioptile_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "695",
+    "dex": 695,
+    "name": "heliolisk",
+    "displayName": "Heliolisk",
+    "species": "heliolisk",
+    "speciesDisplayName": "Heliolisk",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "labels": [],
+    "svg": "assets/svg/695.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/c/cf/695Heliolisk_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "696",
@@ -13802,6 +13977,24 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/702.svg"
   },
   {
+    "id": "703",
+    "dex": 703,
+    "name": "carbink",
+    "displayName": "Carbink",
+    "species": "carbink",
+    "speciesDisplayName": "Carbink",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "labels": [],
+    "svg": "assets/svg/703.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/e/ee/703Carbink_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "704",
     "dex": 704,
     "name": "goomy",
@@ -13888,6 +14081,24 @@
     "labels": [],
     "svg": "assets/svg/708.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/708.svg"
+  },
+  {
+    "id": "709",
+    "dex": 709,
+    "name": "trevenant",
+    "displayName": "Trevenant",
+    "species": "trevenant",
+    "speciesDisplayName": "Trevenant",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "labels": [],
+    "svg": "assets/svg/709.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/d/d8/709Trevenant_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "710",
@@ -14065,6 +14276,26 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/719.svg"
   },
   {
+    "id": "721",
+    "dex": 721,
+    "name": "volcanion",
+    "displayName": "Volcanion",
+    "species": "volcanion",
+    "speciesDisplayName": "Volcanion",
+    "generation": 6,
+    "region": "Kalos",
+    "types": [
+      "fire",
+      "water"
+    ],
+    "labels": [
+      "mythical"
+    ],
+    "svg": "assets/svg/721.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/2/21/721Volcanion_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "722",
     "dex": 722,
     "name": "rowlet",
@@ -14231,6 +14462,42 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/731.svg"
   },
   {
+    "id": "732",
+    "dex": 732,
+    "name": "trumbeak",
+    "displayName": "Trumbeak",
+    "species": "trumbeak",
+    "speciesDisplayName": "Trumbeak",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "labels": [],
+    "svg": "assets/svg/732.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/9/9c/732Trumbeak_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "733",
+    "dex": 733,
+    "name": "toucannon",
+    "displayName": "Toucannon",
+    "species": "toucannon",
+    "speciesDisplayName": "Toucannon",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "labels": [],
+    "svg": "assets/svg/733.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/e/e6/733Toucannon_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "734",
     "dex": 734,
     "name": "yungoos",
@@ -14263,6 +14530,23 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/735.svg"
   },
   {
+    "id": "736",
+    "dex": 736,
+    "name": "grubbin",
+    "displayName": "Grubbin",
+    "species": "grubbin",
+    "speciesDisplayName": "Grubbin",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "bug"
+    ],
+    "labels": [],
+    "svg": "assets/svg/736.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/57/736Grubbin_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "737",
     "dex": 737,
     "name": "charjabug",
@@ -14278,6 +14562,24 @@
     "labels": [],
     "svg": "assets/svg/737.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/737.svg"
+  },
+  {
+    "id": "738",
+    "dex": 738,
+    "name": "vikavolt",
+    "displayName": "Vikavolt",
+    "species": "vikavolt",
+    "speciesDisplayName": "Vikavolt",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "labels": [],
+    "svg": "assets/svg/738.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/d/d4/738Vikavolt_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "739",
@@ -14478,6 +14780,42 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/750.svg"
   },
   {
+    "id": "751",
+    "dex": 751,
+    "name": "dewpider",
+    "displayName": "Dewpider",
+    "species": "dewpider",
+    "speciesDisplayName": "Dewpider",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "water",
+      "bug"
+    ],
+    "labels": [],
+    "svg": "assets/svg/751.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/f/fd/751Dewpider_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "752",
+    "dex": 752,
+    "name": "araquanid",
+    "displayName": "Araquanid",
+    "species": "araquanid",
+    "speciesDisplayName": "Araquanid",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "water",
+      "bug"
+    ],
+    "labels": [],
+    "svg": "assets/svg/752.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/8/84/752Araquanid_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "753",
     "dex": 753,
     "name": "fomantis",
@@ -14508,6 +14846,24 @@
     "labels": [],
     "svg": "assets/svg/754.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/754.svg"
+  },
+  {
+    "id": "755",
+    "dex": 755,
+    "name": "morelull",
+    "displayName": "Morelull",
+    "species": "morelull",
+    "speciesDisplayName": "Morelull",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "labels": [],
+    "svg": "assets/svg/755.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/7/75/755Morelull_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "756",
@@ -14692,6 +15048,42 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/766.svg"
   },
   {
+    "id": "767",
+    "dex": 767,
+    "name": "wimpod",
+    "displayName": "Wimpod",
+    "species": "wimpod",
+    "speciesDisplayName": "Wimpod",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "labels": [],
+    "svg": "assets/svg/767.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/7/78/767Wimpod_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "768",
+    "dex": 768,
+    "name": "golisopod",
+    "displayName": "Golisopod",
+    "species": "golisopod",
+    "speciesDisplayName": "Golisopod",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "labels": [],
+    "svg": "assets/svg/768.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/e/e7/768Golisopod_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "769",
     "dex": 769,
     "name": "sandygast",
@@ -14742,6 +15134,62 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/771.svg"
   },
   {
+    "id": "772",
+    "dex": 772,
+    "name": "type-null",
+    "displayName": "Type: Null",
+    "species": "type-null",
+    "speciesDisplayName": "Type: Null",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "normal"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/772.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/b/be/772Type_Null_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "773",
+    "dex": 773,
+    "name": "silvally",
+    "displayName": "Silvally",
+    "species": "silvally",
+    "speciesDisplayName": "Silvally",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "normal"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/773.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1PPjft5Q9L0-BmTwIFMVvz0LrWe9IR7RM&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "774",
+    "dex": 774,
+    "name": "minior-red-meteor",
+    "displayName": "Minior",
+    "species": "minior",
+    "speciesDisplayName": "Minior",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "labels": [],
+    "svg": "assets/svg/774.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/c/c5/774Minior_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "775",
     "dex": 775,
     "name": "komala",
@@ -14756,6 +15204,24 @@
     "labels": [],
     "svg": "assets/svg/775.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/775.svg"
+  },
+  {
+    "id": "776",
+    "dex": 776,
+    "name": "turtonator",
+    "displayName": "Turtonator",
+    "species": "turtonator",
+    "speciesDisplayName": "Turtonator",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "labels": [],
+    "svg": "assets/svg/776.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/9/99/776Turtonator_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "777",
@@ -14826,6 +15292,43 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/780.svg"
   },
   {
+    "id": "781",
+    "dex": 781,
+    "name": "dhelmise",
+    "displayName": "Dhelmise",
+    "species": "dhelmise",
+    "speciesDisplayName": "Dhelmise",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "labels": [],
+    "svg": "assets/svg/781.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/1/14/781Dhelmise_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "782",
+    "dex": 782,
+    "name": "jangmo-o",
+    "displayName": "Jangmo-o",
+    "species": "jangmo-o",
+    "speciesDisplayName": "Jangmo-o",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "dragon"
+    ],
+    "labels": [
+      "pseudo-legendary"
+    ],
+    "svg": "assets/svg/782.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/0/03/782Jangmo-o_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "783",
     "dex": 783,
     "name": "hakamo-o",
@@ -14843,6 +15346,66 @@
     ],
     "svg": "assets/svg/783.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/783.svg"
+  },
+  {
+    "id": "784",
+    "dex": 784,
+    "name": "kommo-o",
+    "displayName": "Kommo-o",
+    "species": "kommo-o",
+    "speciesDisplayName": "Kommo-o",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "dragon",
+      "fighting"
+    ],
+    "labels": [
+      "pseudo-legendary"
+    ],
+    "svg": "assets/svg/784.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/8/8c/784Kommo-o_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "785",
+    "dex": 785,
+    "name": "tapu-koko",
+    "displayName": "Tapu Koko",
+    "species": "tapu-koko",
+    "speciesDisplayName": "Tapu Koko",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/785.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1ivuH4c-mj_SelQZP7X7aErSA5j8khDLE&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "786",
+    "dex": 786,
+    "name": "tapu-lele",
+    "displayName": "Tapu Lele",
+    "species": "tapu-lele",
+    "speciesDisplayName": "Tapu Lele",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/786.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/7/7d/786Tapu_Lele_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "787",
@@ -14883,6 +15446,44 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/788.svg"
   },
   {
+    "id": "789",
+    "dex": 789,
+    "name": "cosmog",
+    "displayName": "Cosmog",
+    "species": "cosmog",
+    "speciesDisplayName": "Cosmog",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "psychic"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/789.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/6/67/789Cosmog_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "790",
+    "dex": 790,
+    "name": "cosmoem",
+    "displayName": "Cosmoem",
+    "species": "cosmoem",
+    "speciesDisplayName": "Cosmoem",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "psychic"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/790.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/6/67/790Cosmoem_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "791",
     "dex": 791,
     "name": "solgaleo",
@@ -14921,6 +15522,131 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/792.svg"
   },
   {
+    "id": "793",
+    "dex": 793,
+    "name": "nihilego",
+    "displayName": "Nihilego",
+    "species": "nihilego",
+    "speciesDisplayName": "Nihilego",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "labels": [],
+    "svg": "assets/svg/793.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/3/3b/793Nihilego_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "794",
+    "dex": 794,
+    "name": "buzzwole",
+    "displayName": "Buzzwole",
+    "species": "buzzwole",
+    "speciesDisplayName": "Buzzwole",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "labels": [],
+    "svg": "assets/svg/794.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/a/a5/794Buzzwole_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "795",
+    "dex": 795,
+    "name": "pheromosa",
+    "displayName": "Pheromosa",
+    "species": "pheromosa",
+    "speciesDisplayName": "Pheromosa",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "labels": [],
+    "svg": "assets/svg/795.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/a/a8/795Pheromosa_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "796",
+    "dex": 796,
+    "name": "xurkitree",
+    "displayName": "Xurkitree",
+    "species": "xurkitree",
+    "speciesDisplayName": "Xurkitree",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "electric"
+    ],
+    "labels": [],
+    "svg": "assets/svg/796.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/4/43/796Xurkitree_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "797",
+    "dex": 797,
+    "name": "celesteela",
+    "displayName": "Celesteela",
+    "species": "celesteela",
+    "speciesDisplayName": "Celesteela",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "labels": [],
+    "svg": "assets/svg/797.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/a/a8/797Celesteela_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "798",
+    "dex": 798,
+    "name": "kartana",
+    "displayName": "Kartana",
+    "species": "kartana",
+    "speciesDisplayName": "Kartana",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "labels": [],
+    "svg": "assets/svg/798.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/c/c5/798Kartana_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "799",
+    "dex": 799,
+    "name": "guzzlord",
+    "displayName": "Guzzlord",
+    "species": "guzzlord",
+    "speciesDisplayName": "Guzzlord",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "labels": [],
+    "svg": "assets/svg/799.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/0/0b/799Guzzlord_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "800",
     "dex": 800,
     "name": "necrozma",
@@ -14937,6 +15663,117 @@
     ],
     "svg": "assets/svg/800.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/800.svg"
+  },
+  {
+    "id": "801",
+    "dex": 801,
+    "name": "magearna",
+    "displayName": "Magearna",
+    "species": "magearna",
+    "speciesDisplayName": "Magearna",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "labels": [
+      "mythical"
+    ],
+    "svg": "assets/svg/801.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1LoHvwWaVhLktLwBbm6uM1Ts7oy4Hh5wS&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "802",
+    "dex": 802,
+    "name": "marshadow",
+    "displayName": "Marshadow",
+    "species": "marshadow",
+    "speciesDisplayName": "Marshadow",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "labels": [
+      "mythical"
+    ],
+    "svg": "assets/svg/802.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/d/d9/802Marshadow_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "803",
+    "dex": 803,
+    "name": "poipole",
+    "displayName": "Poipole",
+    "species": "poipole",
+    "speciesDisplayName": "Poipole",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "poison"
+    ],
+    "labels": [],
+    "svg": "assets/svg/803.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/6/60/803Poipole_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "804",
+    "dex": 804,
+    "name": "naganadel",
+    "displayName": "Naganadel",
+    "species": "naganadel",
+    "speciesDisplayName": "Naganadel",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "labels": [],
+    "svg": "assets/svg/804.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1FDafmm1owfSCPdDLSMKtN5-VXEasBOAE&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "805",
+    "dex": 805,
+    "name": "stakataka",
+    "displayName": "Stakataka",
+    "species": "stakataka",
+    "speciesDisplayName": "Stakataka",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "labels": [],
+    "svg": "assets/svg/805.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/9/97/805Stakataka_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "806",
+    "dex": 806,
+    "name": "blacephalon",
+    "displayName": "Blacephalon",
+    "species": "blacephalon",
+    "speciesDisplayName": "Blacephalon",
+    "generation": 7,
+    "region": "Alola",
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "labels": [],
+    "svg": "assets/svg/806.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/e/e8/806Blacephalon_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "807",
@@ -15218,6 +16055,76 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/823.svg"
   },
   {
+    "id": "824",
+    "dex": 824,
+    "name": "blipbug",
+    "displayName": "Blipbug",
+    "species": "blipbug",
+    "speciesDisplayName": "Blipbug",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "bug"
+    ],
+    "labels": [],
+    "svg": "assets/svg/824.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/1/10/824Blipbug_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "825",
+    "dex": 825,
+    "name": "dottler",
+    "displayName": "Dottler",
+    "species": "dottler",
+    "speciesDisplayName": "Dottler",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "labels": [],
+    "svg": "assets/svg/825.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1wBlnUGXUAkXV_yrHvqDl8Y4-sAIjOHnk&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "826",
+    "dex": 826,
+    "name": "orbeetle",
+    "displayName": "Orbeetle",
+    "species": "orbeetle",
+    "speciesDisplayName": "Orbeetle",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "labels": [],
+    "svg": "assets/svg/826.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/2/24/826Orbeetle_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "827",
+    "dex": 827,
+    "name": "nickit",
+    "displayName": "Nickit",
+    "species": "nickit",
+    "speciesDisplayName": "Nickit",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "dark"
+    ],
+    "labels": [],
+    "svg": "assets/svg/827.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/3/3f/827Nickit_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "828",
     "dex": 828,
     "name": "thievul",
@@ -15234,6 +16141,40 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/828.svg"
   },
   {
+    "id": "829",
+    "dex": 829,
+    "name": "gossifleur",
+    "displayName": "Gossifleur",
+    "species": "gossifleur",
+    "speciesDisplayName": "Gossifleur",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "grass"
+    ],
+    "labels": [],
+    "svg": "assets/svg/829.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/2/23/829Gossifleur_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "830",
+    "dex": 830,
+    "name": "eldegoss",
+    "displayName": "Eldegoss",
+    "species": "eldegoss",
+    "speciesDisplayName": "Eldegoss",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "grass"
+    ],
+    "labels": [],
+    "svg": "assets/svg/830.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/5c/830Eldegoss_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "831",
     "dex": 831,
     "name": "wooloo",
@@ -15248,6 +16189,23 @@
     "labels": [],
     "svg": "assets/svg/831.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/831.svg"
+  },
+  {
+    "id": "832",
+    "dex": 832,
+    "name": "dubwool",
+    "displayName": "Dubwool",
+    "species": "dubwool",
+    "speciesDisplayName": "Dubwool",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "normal"
+    ],
+    "labels": [],
+    "svg": "assets/svg/832.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1hhztviqspqS6vAELGAeGNqQQv0JO3-8F&export=download",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "833",
@@ -15297,6 +16255,23 @@
     "labels": [],
     "svg": "assets/svg/835.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/835.svg"
+  },
+  {
+    "id": "836",
+    "dex": 836,
+    "name": "boltund",
+    "displayName": "Boltund",
+    "species": "boltund",
+    "speciesDisplayName": "Boltund",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "electric"
+    ],
+    "labels": [],
+    "svg": "assets/svg/836.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/0/06/836Boltund_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "837",
@@ -15432,6 +16407,24 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/844.svg"
   },
   {
+    "id": "845",
+    "dex": 845,
+    "name": "cramorant",
+    "displayName": "Cramorant",
+    "species": "cramorant",
+    "speciesDisplayName": "Cramorant",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "flying",
+      "water"
+    ],
+    "labels": [],
+    "svg": "assets/svg/845.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=10tJLL8YuABX9h5NYfQoQO8tbUjvNiVRa&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "846",
     "dex": 846,
     "name": "arrokuda",
@@ -15496,6 +16489,76 @@
     "labels": [],
     "svg": "assets/svg/849.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/849.svg"
+  },
+  {
+    "id": "850",
+    "dex": 850,
+    "name": "sizzlipede",
+    "displayName": "Sizzlipede",
+    "species": "sizzlipede",
+    "speciesDisplayName": "Sizzlipede",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "labels": [],
+    "svg": "assets/svg/850.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/4/42/850Sizzlipede_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "851",
+    "dex": 851,
+    "name": "centiskorch",
+    "displayName": "Centiskorch",
+    "species": "centiskorch",
+    "speciesDisplayName": "Centiskorch",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "labels": [],
+    "svg": "assets/svg/851.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/c/c0/851Centiskorch_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "852",
+    "dex": 852,
+    "name": "clobbopus",
+    "displayName": "Clobbopus",
+    "species": "clobbopus",
+    "speciesDisplayName": "Clobbopus",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fighting"
+    ],
+    "labels": [],
+    "svg": "assets/svg/852.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/f/f4/852Clobbopus_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "853",
+    "dex": 853,
+    "name": "grapploct",
+    "displayName": "Grapploct",
+    "species": "grapploct",
+    "speciesDisplayName": "Grapploct",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fighting"
+    ],
+    "labels": [],
+    "svg": "assets/svg/853.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/2/22/853Grapploct_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "854",
@@ -15630,6 +16693,58 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/861.svg"
   },
   {
+    "id": "862",
+    "dex": 862,
+    "name": "obstagoon",
+    "displayName": "Obstagoon",
+    "species": "obstagoon",
+    "speciesDisplayName": "Obstagoon",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "labels": [],
+    "svg": "assets/svg/862.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/5c/862Obstagoon_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "863",
+    "dex": 863,
+    "name": "perrserker",
+    "displayName": "Perrserker",
+    "species": "perrserker",
+    "speciesDisplayName": "Perrserker",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "steel"
+    ],
+    "labels": [],
+    "svg": "assets/svg/863.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/c/cc/863Perrserker_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "864",
+    "dex": 864,
+    "name": "cursola",
+    "displayName": "Cursola",
+    "species": "cursola",
+    "speciesDisplayName": "Cursola",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "ghost"
+    ],
+    "labels": [],
+    "svg": "assets/svg/864.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/7/7e/864Cursola_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "865",
     "dex": 865,
     "name": "sirfetchd",
@@ -15644,6 +16759,76 @@
     "labels": [],
     "svg": "assets/svg/865.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/865.svg"
+  },
+  {
+    "id": "866",
+    "dex": 866,
+    "name": "mr-rime",
+    "displayName": "Mr. Rime",
+    "species": "mr-rime",
+    "speciesDisplayName": "Mr. Rime",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "labels": [],
+    "svg": "assets/svg/866.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1RGp3Mm8DEuKtohB5ul_IgjOa0G4NPyg0&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "867",
+    "dex": 867,
+    "name": "runerigus",
+    "displayName": "Runerigus",
+    "species": "runerigus",
+    "speciesDisplayName": "Runerigus",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "labels": [],
+    "svg": "assets/svg/867.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/7/7a/867Runerigus_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "868",
+    "dex": 868,
+    "name": "milcery",
+    "displayName": "Milcery",
+    "species": "milcery",
+    "speciesDisplayName": "Milcery",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fairy"
+    ],
+    "labels": [],
+    "svg": "assets/svg/868.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1XnIKf2dBJg8iPSHdtyJTljcYJyqWWnZ6&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "869",
+    "dex": 869,
+    "name": "alcremie",
+    "displayName": "Alcremie",
+    "species": "alcremie",
+    "speciesDisplayName": "Alcremie",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fairy"
+    ],
+    "labels": [],
+    "svg": "assets/svg/869.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/1/1b/869Alcremie_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "870",
@@ -15810,6 +16995,96 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/879.svg"
   },
   {
+    "id": "880",
+    "dex": 880,
+    "name": "dracozolt",
+    "displayName": "Dracozolt",
+    "species": "dracozolt",
+    "speciesDisplayName": "Dracozolt",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "labels": [],
+    "svg": "assets/svg/880.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/a/a8/880Dracozolt_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "881",
+    "dex": 881,
+    "name": "arctozolt",
+    "displayName": "Arctozolt",
+    "species": "arctozolt",
+    "speciesDisplayName": "Arctozolt",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "electric",
+      "ice"
+    ],
+    "labels": [],
+    "svg": "assets/svg/881.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/b/b3/881Arctozolt_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "882",
+    "dex": 882,
+    "name": "dracovish",
+    "displayName": "Dracovish",
+    "species": "dracovish",
+    "speciesDisplayName": "Dracovish",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "labels": [],
+    "svg": "assets/svg/882.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/8/82/882Dracovish_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "883",
+    "dex": 883,
+    "name": "arctovish",
+    "displayName": "Arctovish",
+    "species": "arctovish",
+    "speciesDisplayName": "Arctovish",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "labels": [],
+    "svg": "assets/svg/883.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/58/883Arctovish_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "884",
+    "dex": 884,
+    "name": "duraludon",
+    "displayName": "Duraludon",
+    "species": "duraludon",
+    "speciesDisplayName": "Duraludon",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "labels": [],
+    "svg": "assets/svg/884.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/f/fe/884Duraludon_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "885",
     "dex": 885,
     "name": "dreepy",
@@ -15867,6 +17142,123 @@
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/887.svg"
   },
   {
+    "id": "890",
+    "dex": 890,
+    "name": "eternatus",
+    "displayName": "Eternatus",
+    "species": "eternatus",
+    "speciesDisplayName": "Eternatus",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/890.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/1/1c/890Eternatus_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "891",
+    "dex": 891,
+    "name": "kubfu",
+    "displayName": "Kubfu",
+    "species": "kubfu",
+    "speciesDisplayName": "Kubfu",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fighting"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/891.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/5b/891Kubfu_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "892",
+    "dex": 892,
+    "name": "urshifu-single-strike",
+    "displayName": "Urshifu",
+    "species": "urshifu",
+    "speciesDisplayName": "Urshifu",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/892.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/0/0d/892Urshifu_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "893",
+    "dex": 893,
+    "name": "zarude",
+    "displayName": "Zarude",
+    "species": "zarude",
+    "speciesDisplayName": "Zarude",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "dark",
+      "grass"
+    ],
+    "labels": [
+      "mythical"
+    ],
+    "svg": "assets/svg/893.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/d/df/893Zarude_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "894",
+    "dex": 894,
+    "name": "regieleki",
+    "displayName": "Regieleki",
+    "species": "regieleki",
+    "speciesDisplayName": "Regieleki",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "electric"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/894.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1vYTPQezOJ4wimq18g9QBiOxPb3F3Z5Xg&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "895",
+    "dex": 895,
+    "name": "regidrago",
+    "displayName": "Regidrago",
+    "species": "regidrago",
+    "speciesDisplayName": "Regidrago",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "dragon"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/895.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/4/42/895Regidrago_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
     "id": "896",
     "dex": 896,
     "name": "glastrier",
@@ -15901,6 +17293,116 @@
     ],
     "svg": "assets/svg/897.svg",
     "sourceUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/897.svg"
+  },
+  {
+    "id": "899",
+    "dex": 899,
+    "name": "wyrdeer",
+    "displayName": "Wyrdeer",
+    "species": "wyrdeer",
+    "speciesDisplayName": "Wyrdeer",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "labels": [],
+    "svg": "assets/svg/899.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1N3zcYbIvjF2B3v59_W6KGmdFdDksb27q&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "900",
+    "dex": 900,
+    "name": "kleavor",
+    "displayName": "Kleavor",
+    "species": "kleavor",
+    "speciesDisplayName": "Kleavor",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "labels": [],
+    "svg": "assets/svg/900.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1Ms9_NiLE22U4RSs0k74fSWO3JpwZztjl&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "902",
+    "dex": 902,
+    "name": "basculegion-male",
+    "displayName": "Basculegion",
+    "species": "basculegion",
+    "speciesDisplayName": "Basculegion",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "labels": [],
+    "svg": "assets/svg/902.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/5/5a/902Basculegion_Dream.png",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "903",
+    "dex": 903,
+    "name": "sneasler",
+    "displayName": "Sneasler",
+    "species": "sneasler",
+    "speciesDisplayName": "Sneasler",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fighting",
+      "poison"
+    ],
+    "labels": [],
+    "svg": "assets/svg/903.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1Ch8AC5i9a-G_USBC6FQr6WzJw5mDdedL&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "904",
+    "dex": 904,
+    "name": "overqwil",
+    "displayName": "Overqwil",
+    "species": "overqwil",
+    "speciesDisplayName": "Overqwil",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "dark",
+      "poison"
+    ],
+    "labels": [],
+    "svg": "assets/svg/904.svg",
+    "sourceUrl": "https://drive.usercontent.google.com/download?id=1fpDr3iu47EA_NW4RdMWqTKd5UykJf31S&export=download",
+    "artSource": "traced-dream-world-artwork"
+  },
+  {
+    "id": "905",
+    "dex": 905,
+    "name": "enamorus-incarnate",
+    "displayName": "Enamorus",
+    "species": "enamorus",
+    "speciesDisplayName": "Enamorus",
+    "generation": 8,
+    "region": "Galar / Hisui",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "labels": [
+      "legendary"
+    ],
+    "svg": "assets/svg/905.svg",
+    "sourceUrl": "https://archives.bulbagarden.net/media/upload/3/38/905Enamorus_Dream.png",
+    "artSource": "traced-dream-world-artwork"
   },
   {
     "id": "906",
